@@ -1,6 +1,4 @@
-nwwudbwkdbd
-bdsbddbhdsbdshbsbd
- #Git Course
+nwwudbwkdbd #Git Course
 
 Este é um repositorio teste para ensinar como o Git funciona.
 
